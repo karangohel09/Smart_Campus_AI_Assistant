@@ -1,0 +1,21 @@
+student_id,course,marks,attendance,assignments
+STU001,Python,78,92,90
+STU002,Python,45,68,55
+STU003,Data Science,66,82,75
+STU004,AI,88,95,100
+STU005,Python,32,54,40
+STU006,Data Science,57,76,70
+STU007,AI,73,88,85
+STU008,Python,61,72,65
+STU009,Data Science,39,59,50
+STU010,AI,91,97,95
+STU011,Python,52,80,78
+STU012,Data Science,70,85,82
+STU013,AI,48,66,60
+STU014,Python,83,90,92
+STU015,Data Science,59,73,68
+STU016,AI,27,48,35
+STU017,Python,74,86,80
+STU018,Data Science,64,79,77
+STU019,AI,55,70,72
+STU020,Python,95,98,100
